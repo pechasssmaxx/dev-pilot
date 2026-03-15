@@ -30,7 +30,7 @@ node "$HOME/.claude/get-shit-done/bin/gsd-tools.cjs" commit "" --files .planning
 | remove-phase | chore | `chore: remove phase 17 (dashboard)` |
 | insert-phase | phase | `docs: insert phase 16.1 (critical fix)` |
 | add-phase | phase | `docs: add phase 07 (settings page)` |
-
+.
 ## When to Skip
 
 - `commit_docs: false` in config
