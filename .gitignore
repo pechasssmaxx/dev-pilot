@@ -14,7 +14,7 @@ hooks/dist/
 # Coverage artifacts
 coverage/
 
-# Animation assets
+# Animation assets s
 animation/
 *.gif
 
